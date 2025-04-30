@@ -1,4 +1,4 @@
-# proxmox-cheatsheet
+# AIDE-MEMOIRE PROXMOX
 ## Advanced LVM Configuration Options
 
 https://pve.proxmox.com/pve-docs/chapter-pve-installation.html#advanced_lvm_options
